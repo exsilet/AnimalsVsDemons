@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 48dd86ad8a952674ba1668a41298948f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScarecrowMove_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 726
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586bfce53b66db040aa1ec8d8108371b
+      internalID: 1679446522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 726
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd11701d5f505846a4ea18468391fa4
+      internalID: 1429946681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 726
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b63144bc246a4f98d9c39c345e413
+      internalID: -238356720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 726
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a305611165c74fbe3f2edf4c7216e
+      internalID: -96118829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 584
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64463692d0cf24da660888f696aaeb
+      internalID: -1928708852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 584
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed048f75768dc4e41a9e367e4e39587e
+      internalID: -1143326472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 584
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09318d074325a4689b0ad489fe265a
+      internalID: 3759134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 584
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31659905c54fd448b6eb21baa098097
+      internalID: -1206957650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 441
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58adaf6a22dae2d47864b8818b66e1ea
+      internalID: 601363128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 441
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f466531faa1bc1409274fd43db10051
+      internalID: 923995789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 442
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86fc3d006f3a34ebca64e22965a509
+      internalID: 384305145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 442
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a14491988db640b5d1f78e3265d59
+      internalID: 1387346124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 298
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d7a4bfab00e0419df198d04ee75b5
+      internalID: 1087865905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 298
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9468de04d3bfa49ace122cfe07535f
+      internalID: 1339907983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 298
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4babcba8e4d9548af5f380a1ad049a
+      internalID: -30393998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 298
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9731e21fdb0443b5f2b7485e4134a
+      internalID: 2045736083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36c5a9993fe2a458cd4210c1fef7b0
+      internalID: -776294062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca976ae300a20418dcb874ffa3ff20
+      internalID: 1377809026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 156
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e932fbda708ed744192607c44aee64f6
+      internalID: -26425144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 156
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7dd9ddd05c6de4bbb588383e04922f
+      internalID: -489570824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b505c148caa7844c9a2cc3ae7123414
+      internalID: -258232286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 12
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4be1da09e594244bb7f839413892a3
+      internalID: 1049186979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 12
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbc38391c525c46bb4a5c69a96633d
+      internalID: -979557181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowMove_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 12
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22206e436a9ef3f499b7d7af86badd6e
+      internalID: 1658331033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ScarecrowMove_2: -238356720
+      ScarecrowMove_6: -1776805642
+      ScarecrowMove_60: 1049186979
+      ScarecrowMove_34: -2039173727
+      ScarecrowMove_38: 1339907983
+      ScarecrowMove_25: 923995789
+      ScarecrowMove_30: -203282100
+      ScarecrowMove_14: 1817844537
+      ScarecrowMove_50: -26425144
+      ScarecrowMove_22: -35472372
+      ScarecrowMove_32: 2021429381
+      ScarecrowMove_20: 1155567656
+      ScarecrowMove_1: 1429946681
+      ScarecrowMove_8: 1885594184
+      ScarecrowMove_3: -96118829
+      ScarecrowMove_48: -932997399
+      ScarecrowMove_13: -1206957650
+      ScarecrowMove_9: 454317742
+      ScarecrowMove_10: -1928708852
+      ScarecrowMove_4: 297893331
+      ScarecrowMove_11: -1143326472
+      ScarecrowMove_16: -126697367
+      ScarecrowMove_45: -502335328
+      ScarecrowMove_61: -979557181
+      ScarecrowMove_49: 1377809026
+      ScarecrowMove_0: 1679446522
+      ScarecrowMove_58: -258232286
+      ScarecrowMove_44: 1970657884
+      ScarecrowMove_56: -1232388953
+      ScarecrowMove_37: 1087865905
+      ScarecrowMove_5: 1741602413
+      ScarecrowMove_18: -447783428
+      ScarecrowMove_21: -2078805728
+      ScarecrowMove_33: -1187411829
+      ScarecrowMove_57: -1724331539
+      ScarecrowMove_62: -65060590
+      ScarecrowMove_19: 2141510828
+      ScarecrowMove_31: -2109295301
+      ScarecrowMove_17: 1405972366
+      ScarecrowMove_43: 1009822298
+      ScarecrowMove_47: -776294062
+      ScarecrowMove_24: 601363128
+      ScarecrowMove_55: -1944301602
+      ScarecrowMove_27: 384305145
+      ScarecrowMove_54: -382133949
+      ScarecrowMove_28: -330847557
+      ScarecrowMove_40: -1821379376
+      ScarecrowMove_59: -2128070140
+      ScarecrowMove_39: -30393998
+      ScarecrowMove_26: 1640476516
+      ScarecrowMove_52: -1649240851
+      ScarecrowMove_41: 2045736083
+      ScarecrowMove_23: -1472346144
+      ScarecrowMove_15: 1555638317
+      ScarecrowMove_29: 1387346124
+      ScarecrowMove_36: 1627943592
+      ScarecrowMove_51: -489570824
+      ScarecrowMove_63: 1658331033
+      ScarecrowMove_35: -1826527641
+      ScarecrowMove_53: 546517487
+      ScarecrowMove_7: 344823270
+      ScarecrowMove_12: 3759134
+      ScarecrowMove_46: -2070044248
+      ScarecrowMove_42: -1475537222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

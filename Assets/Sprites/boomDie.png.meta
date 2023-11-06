@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: e4eccdba6776c4442b4b00f78d830975
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boomDie_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1035
+        width: 109
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df970c6a2a1d8e409d89465d1c7bbab
+      internalID: -1341644342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1034
+        width: 139
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685b1f2cab2bb4409514e940b74188a
+      internalID: 2085466142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_8
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1034
+        width: 141
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5f18a5739cae4a96c027eefd8fe51
+      internalID: 1056682558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_9
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1034
+        width: 144
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bdf4b09aa581a4a8b9d7ff50dee19b
+      internalID: -522903991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_10
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1035
+        width: 146
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44500f4dd2b0a5a49b7a88502c9d2c55
+      internalID: -281531826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_11
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1036
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548cd1ae5217afb42af85636d90f3a43
+      internalID: 436284515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_12
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1036
+        width: 147
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b816a9813be24409d2f1a59f978a47
+      internalID: 10709878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 837
+        width: 147
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049fa46aaf2af740a9be49062b54a7f
+      internalID: 1500764139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 840
+        width: 146
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b657440fdd70d458e6d7436c4d1dd8
+      internalID: -1285810426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 846
+        width: 146
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be379e770b64ef4faf47655c523eb32
+      internalID: -661897179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 847
+        width: 145
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac0c2b751ea58418a7d73cc45a5f4a
+      internalID: -1967609681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 840
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b03d978ae41b54b852906949047f60
+      internalID: -554679303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_23
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 841
+        width: 144
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961422df4565b441b65b73636a99a77
+      internalID: -832001560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_24
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 842
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea987a5e38ece24e8c4c8ea91f5d0df
+      internalID: 1206353501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_25
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 842
+        width: 143
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279ad93732493054c83c8647a238688c
+      internalID: -545303889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_26
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 839
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e81580d32b80d4dbf104ba07b3d0a3
+      internalID: -77290564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_27
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 843
+        width: 141
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60c0a2649a1b24ab483c9b8487c957
+      internalID: 1211287940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 642
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d54d4fb461fc44995ef3acca9679aa
+      internalID: -1167194091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 643
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d1721c9d0e794f9f0cfafef5bd4f4
+      internalID: 522384846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 643
+        width: 139
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62cc0d50b60134dba7942b7db38418
+      internalID: -1714139017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_31
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 643
+        width: 139
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6513a8a79b8c9da438259a5a0b9eb14d
+      internalID: -1788369176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_32
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 644
+        width: 139
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240a89691b33034bb66b617cf90f500
+      internalID: 318073659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 644
+        width: 139
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4acf254ed57d5446af813b6fc5f4974
+      internalID: -633554877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_34
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 646
+        width: 139
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb05ea19d7dc564c95de4885642b4ae
+      internalID: -1360964788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_35
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 647
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455170f4e7b2724a9efc0a2e9f71d88
+      internalID: 111583720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_36
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 649
+        width: 134
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ed9512964b6a41a1ee0f7100e924e
+      internalID: -1035034362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_37
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 650
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff03be428a3b94ca9681272702d20d
+      internalID: -1743972634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 452
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cdd81e84dee6a4a8d92e6b18ddd189
+      internalID: -1349237895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 452
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5496d53fe7805f43825c3c6177b0d11
+      internalID: -389556625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 455
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85709c88a68373542a631bf98a893dff
+      internalID: -1971612928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 455
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610258f88d9d874409a762809a9c724c
+      internalID: -468257617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_42
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 456
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595306c5ed82393428c24fed2ded9885
+      internalID: 185507807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_43
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 467
+        width: 127
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279bf6318198914c919bcaa897e0302
+      internalID: -1718999603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_44
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 473
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b260632a85eb42bca09e894ccdf70
+      internalID: -2144019167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_45
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 474
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fb3923c6c99c4fa89f6178cd7f5f4
+      internalID: 1218334598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_46
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 474
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60680a1de6c494d82d389c7c5c0f71
+      internalID: 2106884911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_47
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 480
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87541ddd6cf334ba58c0f57a63b307
+      internalID: 497679198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 282
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43c7f7ea2377847b6658ce06e8b391
+      internalID: -63576194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 284
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2d9c41de908124cb55a09bd59de402
+      internalID: -131252361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 285
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ccef525090384893ad50cd9b15433
+      internalID: -1059440804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_52
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 286
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2f59d8d4f2de242a056d99c5f5466e
+      internalID: 632667668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 290
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1246a126d87fd0c4c9f0e12a44716806
+      internalID: -586397240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_54
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 290
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ed252db837e4478408c874d0ee553
+      internalID: -1674635426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_55
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 293
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92acceec16d2c324c9818e9f4029d837
+      internalID: 856704156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_56
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 297
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989cbe8fc89fe946a3678d0039c8f20
+      internalID: -2084738773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_57
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 300
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892ffa54a76a6d40b73312f5b9e3fbb
+      internalID: 287169323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_58
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 300
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a413466e2ec5546902085496ae1329
+      internalID: 1689147185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c56b988be68c645a13adecc6cf25c3
+      internalID: -730254872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4dae22aebdf87439eb82f8ca8dae23
+      internalID: 555662794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_63
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 105
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67656b5779d9aec4e9e2396b0bc9fbce
+      internalID: 34555391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boomDie_64
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 107
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074aa7a95789a14ca40edc861372528
+      internalID: -696888371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boomDie_63: 34555391
+      boomDie_11: 436284515
+      boomDie_13: -1846053573
+      boomDie_17: 654440529
+      boomDie_39: -389556625
+      boomDie_7: 2085466142
+      boomDie_40: -1971612928
+      boomDie_29: 522384846
+      boomDie_36: -1035034362
+      boomDie_57: 287169323
+      boomDie_0: 2110624741
+      boomDie_60: 555662794
+      boomDie_23: -832001560
+      boomDie_14: -611151645
+      boomDie_43: -1718999603
+      boomDie_25: -545303889
+      boomDie_42: 185507807
+      boomDie_4: -1190824377
+      boomDie_62: -1803992238
+      boomDie_44: -2144019167
+      boomDie_5: 220762776
+      boomDie_18: 1500764139
+      boomDie_1: 613739314
+      boomDie_41: -468257617
+      boomDie_12: 10709878
+      boomDie_56: -2084738773
+      boomDie_35: 111583720
+      boomDie_21: -1967609681
+      boomDie_45: 1218334598
+      boomDie_55: 856704156
+      boomDie_50: -131252361
+      boomDie_27: 1211287940
+      boomDie_2: 2142260806
+      boomDie_16: 1166480720
+      boomDie_52: 632667668
+      boomDie_24: 1206353501
+      boomDie_34: -1360964788
+      boomDie_8: 1056682558
+      boomDie_10: -281531826
+      boomDie_32: 318073659
+      boomDie_37: -1743972634
+      boomDie_19: -1285810426
+      boomDie_9: -522903991
+      boomDie_33: -633554877
+      boomDie_3: 2091302890
+      boomDie_22: -554679303
+      boomDie_30: -1714139017
+      boomDie_53: -586397240
+      boomDie_47: 497679198
+      boomDie_38: -1349237895
+      boomDie_61: 1442536302
+      boomDie_58: 1689147185
+      boomDie_28: -1167194091
+      boomDie_31: -1788369176
+      boomDie_6: -1341644342
+      boomDie_20: -661897179
+      boomDie_15: 1654227941
+      boomDie_46: 2106884911
+      boomDie_59: -730254872
+      boomDie_64: -696888371
+      boomDie_49: -63576194
+      boomDie_26: -77290564
+      boomDie_48: -378206543
+      boomDie_54: -1674635426
+      boomDie_51: -1059440804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 3b8c54668c4658842a9a0afcd570070b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheald@0.5x_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1800
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba5f4b54d24e84f8f9b7a43ddc56af
+      internalID: -666157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1802
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f9798bbc4add4bb4fabbe0d239545
+      internalID: 570725487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1801
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e64caf9367108479fe51bfb2291ac9
+      internalID: 290095626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1802
+        width: 161
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f5db372de0e74899b434c4cb96afa
+      internalID: 764979466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1645
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ddeb5a3d847a040b02a3d0d1381130
+      internalID: -1029326583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1645
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c17512591a7f4a9ba4b8cb7d543c2
+      internalID: 858163368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1645
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef475fe0ad4ef88489cc57630b6927dd
+      internalID: 1122630964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1645
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fafb0e0f9ed62b4ebb89e762c1d8e8a
+      internalID: -1471114141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1489
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37288d5562d861a46b95d85879bfc0bb
+      internalID: 1442202392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1489
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d74a6993df32479bcb7c66b5aee18
+      internalID: -2057665682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1489
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc155f2e6ebec048b30ae0350eeb604
+      internalID: -618608324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1489
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4560d0b28616bf4f8e0086ebb922032
+      internalID: 1535068856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa69b3730133e4086b433eb39b1ccc
+      internalID: -1174849804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1333
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbcc998c0c27944d9876e9d30e6e84c
+      internalID: 930359276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1333
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfbb5c45028feb4dbd64375dcfa1242
+      internalID: 699995225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1333
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83fc7ba40d83be48acce470507370f2
+      internalID: -1773267182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1177
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d48849839b379469bda00c6bb88bf7
+      internalID: -344800092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1177
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1af145f16b9b14faa67f39e1c509b2
+      internalID: 1726870614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1177
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e748f4b951e7428ba3cd19bfc79c5
+      internalID: -1264035720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1177
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442c3c5f332ec2459446c052c189441
+      internalID: 38465287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4df7d381f20f40af5fd57190fc7a7
+      internalID: 1173805811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1022
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28035e6b2bde0f345b8f8879beec97b8
+      internalID: 1407457778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1022
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de2513835216f4c8c754863cf8754f
+      internalID: 1799541026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1022
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb2125a3f7f20419321da5d6a0d41c
+      internalID: -114967062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb9b494fb0dff42ac9d2eb69b934bb
+      internalID: 1895403668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 800
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef843f897485470479e5fb30198d8025
+      internalID: 212300131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 801
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837672818af8e34fa2b9227bb98128f
+      internalID: 1701835766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 801
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab569a88e89cb45822a57dc976aac4
+      internalID: -1203861359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 646
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94348e7461a19fb4fa19779e6f080646
+      internalID: 2015261758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 646
+        width: 161
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c944d3a05896f54fb5d7703003c9fcd
+      internalID: 1921038361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 646
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a313528e1d1d439fbcd82552c2f0a
+      internalID: -1853985883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_31
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 646
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87766bb8bce96b4a8392a0ec5f70222
+      internalID: 180729370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 490
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e9bc855dc23a48ac32d4a38f588d2
+      internalID: -708666076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 490
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d1340ac1b8954494b672e89f5decb
+      internalID: -1030260920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 490
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6b59ce05528a4a91ff755178d1c2c
+      internalID: 113344497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 489
+        width: 161
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7ae0d6c7c64f459bb19ce8a39a317
+      internalID: 242898002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 164
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d0eee41968614e82a444613c1031b
+      internalID: 628942679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 335
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3f97618e48e74b972620e29533c5a
+      internalID: 1714301087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 335
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc9634e50a8c234fa4e1bd982f3ebb7
+      internalID: 1446246435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 335
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def65d9a70b0c74890860e907eaba7c
+      internalID: 422838587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ffb8f76e36007449226b6e7cc9b6da
+      internalID: 17895416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 179
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0cf594603cd24dac4dfe04f82c96f
+      internalID: 153167917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 179
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31dbbd33af08b2448ec4d93f9286a8c
+      internalID: 1279550427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 179
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f672fd28862204595d79067f1f3749
+      internalID: 1478871088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022011ec3ab6354f8cb189725e46570
+      internalID: 132235975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7619784d59f0494fb218154e875c571
+      internalID: 1037918542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 24
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af296bc4783c12429536eab1d5c090c
+      internalID: -1710241769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheald@0.5x_47
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 24
+        width: 161
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ea6f50ea74c84c881191b43e08fb5
+      internalID: -1963921899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheald@0.5x_36: 628942679
+      sheald@0.5x_19: 38465287
+      sheald@0.5x_23: -114967062
+      sheald@0.5x_9: -2057665682
+      sheald@0.5x_26: 1701835766
+      sheald@0.5x_33: -1030260920
+      sheald@0.5x_46: -1710241769
+      sheald@0.5x_4: -1029326583
+      sheald@0.5x_29: 1921038361
+      sheald@0.5x_27: -1203861359
+      sheald@0.5x_42: 1279550427
+      sheald@0.5x_22: 1799541026
+      sheald@0.5x_43: 1478871088
+      sheald@0.5x_37: 1714301087
+      sheald@0.5x_0: -666157164
+      sheald@0.5x_10: -618608324
+      sheald@0.5x_8: 1442202392
+      sheald@0.5x_35: 242898002
+      sheald@0.5x_2: 290095626
+      sheald@0.5x_7: -1471114141
+      sheald@0.5x_6: 1122630964
+      sheald@0.5x_25: 212300131
+      sheald@0.5x_45: 1037918542
+      sheald@0.5x_28: 2015261758
+      sheald@0.5x_5: 858163368
+      sheald@0.5x_21: 1407457778
+      sheald@0.5x_17: 1726870614
+      sheald@0.5x_40: 17895416
+      sheald@0.5x_24: 1895403668
+      sheald@0.5x_38: 1446246435
+      sheald@0.5x_47: -1963921899
+      sheald@0.5x_18: -1264035720
+      sheald@0.5x_20: 1173805811
+      sheald@0.5x_16: -344800092
+      sheald@0.5x_30: -1853985883
+      sheald@0.5x_32: -708666076
+      sheald@0.5x_11: 1535068856
+      sheald@0.5x_15: -1773267182
+      sheald@0.5x_3: 764979466
+      sheald@0.5x_31: 180729370
+      sheald@0.5x_44: 132235975
+      sheald@0.5x_41: 153167917
+      sheald@0.5x_1: 570725487
+      sheald@0.5x_12: -1174849804
+      sheald@0.5x_14: 699995225
+      sheald@0.5x_34: 113344497
+      sheald@0.5x_39: 422838587
+      sheald@0.5x_13: 930359276
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: 778cae4f95829cb4d9999f3732957367
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tornado1Lvl_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 654
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cff25077c6b741b9a4dfe8927b063
+      internalID: 1308304142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 654
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b543da5521497a418009d74e8b6c9d5
+      internalID: 2065819563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 657
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5f7d6097a6e7409bb97442bb12fe6
+      internalID: -681195244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 658
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c5bea0fd39a1448ab6bea38db900c
+      internalID: -1337113745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 529
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb6225a47a35a40b8cadcf7f5ab513
+      internalID: 1703253498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 528
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed54041f157e54a83eba3200391d8e
+      internalID: 1580644047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 532
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc266c67f12a7343a1eb301656ecc82
+      internalID: -1161072294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 532
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c2fbde764ff8b4ba5fa276263c503d
+      internalID: 1168078285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 403
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5eec74fbd91f545a95fb5b518096a0
+      internalID: 1148447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 399
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af3d7b3f98cbe4c9fb7a33857f4847
+      internalID: 782200189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095bc6d79abbff4b996f98bde01b326
+      internalID: -1412058513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 402
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01f9f85d0a09d48a993e56c9f5fbd1
+      internalID: -81449350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 271
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbe7f73fb99e74baa7b7abcaea5c46
+      internalID: 692546317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 272
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2d1e194bb52d4492768ee814d0c4f
+      internalID: -1848558703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b43a1466976f47b16f8d441050016
+      internalID: -1687489695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 272
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9798228bd2c83a948804cee80e7fd875
+      internalID: -205067008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bffd0347d4625468a1e43fa9724af2
+      internalID: 304978256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 135
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a53c2cae60f3f42bf52e382899858e
+      internalID: -1772677196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 142
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637d08d56e3d2445ab67727cb6c81f1
+      internalID: 1031872019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141eef8471c92f1478878e99b6c685da
+      internalID: 1542759034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b57d218f28c9344ad058421576b537
+      internalID: 784135818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f3d41c6401f34383698c113e96d39
+      internalID: 503763087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_62
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5f4a25d478b34ba86cc19b399f426
+      internalID: 536417098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09893da016213704eaf015b718c9dce8
+      internalID: 289618742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1Lvl_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 78
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606a4011ccf7b6468c4c40a1306455a
+      internalID: 86490364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tornado1Lvl_39: -815810379
+      Tornado1Lvl_8: -1161072294
+      Tornado1Lvl_0: -596598034
+      Tornado1Lvl_28: 1564922800
+      Tornado1Lvl_29: 601116800
+      Tornado1Lvl_56: 99794215
+      Tornado1Lvl_30: -1290058935
+      Tornado1Lvl_59: 784135818
+      Tornado1Lvl_80: -850769087
+      Tornado1Lvl_72: 670704525
+      Tornado1Lvl_1: 1308304142
+      Tornado1Lvl_25: 620078008
+      Tornado1Lvl_53: 1031872019
+      Tornado1Lvl_84: 631058012
+      Tornado1Lvl_48: 304978256
+      Tornado1Lvl_9: 1377217872
+      Tornado1Lvl_18: 782200189
+      Tornado1Lvl_44: -1436312241
+      Tornado1Lvl_65: -759908224
+      Tornado1Lvl_3: -681195244
+      Tornado1Lvl_69: 129725028
+      Tornado1Lvl_6: 1703253498
+      Tornado1Lvl_87: -395469425
+      Tornado1Lvl_42: -317547988
+      Tornado1Lvl_32: 1829503111
+      Tornado1Lvl_45: -1917538703
+      Tornado1Lvl_50: 977927741
+      Tornado1Lvl_66: -1828738630
+      Tornado1Lvl_17: 2129099190
+      Tornado1Lvl_14: 1148447718
+      Tornado1Lvl_51: -1772677196
+      Tornado1Lvl_55: 747419370
+      Tornado1Lvl_77: -1164353040
+      Tornado1Lvl_36: 692546317
+      Tornado1Lvl_7: 1580644047
+      Tornado1Lvl_38: -1848558703
+      Tornado1Lvl_26: 1631352767
+      Tornado1Lvl_11: 1782606138
+      Tornado1Lvl_54: 1542759034
+      Tornado1Lvl_61: 15827907
+      Tornado1Lvl_67: -475504369
+      Tornado1Lvl_24: 1811766130
+      Tornado1Lvl_58: -1966777702
+      Tornado1Lvl_34: -1011539654
+      Tornado1Lvl_70: -2045504214
+      Tornado1Lvl_12: -437111864
+      Tornado1Lvl_62: 536417098
+      Tornado1Lvl_5: 1400519737
+      Tornado1Lvl_2: 2065819563
+      Tornado1Lvl_35: -26433820
+      Tornado1Lvl_68: 86490364
+      Tornado1Lvl_75: -1935061517
+      Tornado1Lvl_47: 2043697457
+      Tornado1Lvl_10: 1168078285
+      Tornado1Lvl_37: -2031892334
+      Tornado1Lvl_78: 1392509487
+      Tornado1Lvl_23: 1647880919
+      Tornado1Lvl_71: 104712848
+      Tornado1Lvl_20: -830914534
+      Tornado1Lvl_16: 496479953
+      Tornado1Lvl_4: -1337113745
+      Tornado1Lvl_49: -694516529
+      Tornado1Lvl_52: -131012035
+      Tornado1Lvl_13: -1206983150
+      Tornado1Lvl_79: -291512
+      Tornado1Lvl_85: 1698034368
+      Tornado1Lvl_64: -1930896027
+      Tornado1Lvl_82: -1135325825
+      Tornado1Lvl_81: 467260696
+      Tornado1Lvl_31: 1588613248
+      Tornado1Lvl_63: 289618742
+      Tornado1Lvl_41: -1687489695
+      Tornado1Lvl_40: 1854968006
+      Tornado1Lvl_83: 639660579
+      Tornado1Lvl_15: -126537990
+      Tornado1Lvl_33: 1393918913
+      Tornado1Lvl_22: -81449350
+      Tornado1Lvl_74: -1859360284
+      Tornado1Lvl_60: 503763087
+      Tornado1Lvl_27: -269836760
+      Tornado1Lvl_76: 1480483360
+      Tornado1Lvl_73: 458071384
+      Tornado1Lvl_57: -1983653517
+      Tornado1Lvl_86: 1112615902
+      Tornado1Lvl_21: -1412058513
+      Tornado1Lvl_43: -205067008
+      Tornado1Lvl_46: 411251005
+      Tornado1Lvl_19: 1159890562
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: b2922974ee5156b458c35dc12fc14f9a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonkeyMove_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 676
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd30c321cb6ec4aabeb44737e4411b
+      internalID: -1240886629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 676
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f32c35c72dcfef4da97208ee34af439
+      internalID: 883206727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 676
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e872f67fa6fc4c9fc97bec3d98cc4
+      internalID: 989617055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 676
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4c9457e00aec4596f19c84ba44123
+      internalID: -292277632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 541
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee09ef714736f8498a66ffe628f8b46
+      internalID: -1692123530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 541
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8fad8f039db944b986ad50d5e5e900
+      internalID: -1549190706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 541
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfad3fd7da70040b0df532b4cbe991
+      internalID: -401526711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 541
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8edaae42fde0bc40ae3453a4f721e1f
+      internalID: -517505846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 404
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c41cf7c2078f47b7a9877b055e2ed
+      internalID: -449704476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 404
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38878950b7da0014f9e97a3d9b04ade3
+      internalID: -110698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 404
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272fb5f0dd77a94da8189f5b31b7e01
+      internalID: -1495060936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 404
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ed94de8220bc439fd0ede8c5d5df4
+      internalID: 1208993528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 276
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324bb82448b9ec4bbbabb42897e51a4
+      internalID: 1422718316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b95ddacf2cb94ea0086a812a5d968
+      internalID: -83688153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 276
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bebcd7cb373574c8ab7c89ecc6fb18
+      internalID: -392172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 276
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae58b66b9cb3ee4e9a97e67d3909d7c
+      internalID: -1806101351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce55eb8600aa6114189b1a1729d2702f
+      internalID: -633068549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 142
+        width: 111
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638fafcd19c2bb44aec92fab8f39ed3
+      internalID: 1709381654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0fcf459f67584c849a506fabc2751
+      internalID: 261191171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 142
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7902e11377192c459130b12ee742daf
+      internalID: 15571712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23ea80b1a311e24cb095d3bb0ff944c
+      internalID: 391751049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 14
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02378caa4f319414f8c174422d716ec8
+      internalID: -1370520547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 14
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fea179dfc237949ad572ddf1e3c53c
+      internalID: -1047483345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyMove_94
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 14
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158f89f361bee94a9c20153deeaa053
+      internalID: 411345103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonkeyMove_25: -1618832863
+      MonkeyMove_23: 849731688
+      MonkeyMove_87: -2055112066
+      MonkeyMove_100: 1241945724
+      MonkeyMove_39: 580973493
+      MonkeyMove_37: -1290727502
+      MonkeyMove_10: -2061588864
+      MonkeyMove_63: 2128644661
+      MonkeyMove_69: -830003098
+      MonkeyMove_15: 1854311575
+      MonkeyMove_28: -1906862555
+      MonkeyMove_60: -1806101351
+      MonkeyMove_5: 989617055
+      MonkeyMove_48: 2136091359
+      MonkeyMove_103: -210417702
+      MonkeyMove_27: 363463108
+      MonkeyMove_55: -1637787022
+      MonkeyMove_32: -244027296
+      MonkeyMove_97: -1055453940
+      MonkeyMove_56: -1742129928
+      MonkeyMove_73: 261191171
+      MonkeyMove_89: 1488678234
+      MonkeyMove_99: 590028486
+      MonkeyMove_91: -1370520547
+      MonkeyMove_31: -1005979850
+      MonkeyMove_41: -449704476
+      MonkeyMove_78: 448443603
+      MonkeyMove_22: -401526711
+      MonkeyMove_77: -2022376604
+      MonkeyMove_62: 1766727968
+      MonkeyMove_76: 384732295
+      MonkeyMove_104: -1150469255
+      MonkeyMove_1: -2052473047
+      MonkeyMove_34: -2014866631
+      MonkeyMove_88: 13520173
+      MonkeyMove_92: -1047483345
+      MonkeyMove_43: 1114189217
+      MonkeyMove_16: -137900287
+      MonkeyMove_65: -500102150
+      MonkeyMove_52: -1815257719
+      MonkeyMove_81: 1733334202
+      MonkeyMove_82: 1949778476
+      MonkeyMove_72: 1709381654
+      MonkeyMove_80: 604666579
+      MonkeyMove_94: 411345103
+      MonkeyMove_38: -300618690
+      MonkeyMove_6: -292277632
+      MonkeyMove_8: 2137108987
+      MonkeyMove_57: 1243774599
+      MonkeyMove_33: -1945128912
+      MonkeyMove_2: -1240886629
+      MonkeyMove_68: -1124987658
+      MonkeyMove_29: 2078071770
+      MonkeyMove_0: 1751409351
+      MonkeyMove_96: -298382790
+      MonkeyMove_7: -1534187245
+      MonkeyMove_42: 1776704610
+      MonkeyMove_86: 499471360
+      MonkeyMove_85: 1514850139
+      MonkeyMove_61: 1988563206
+      MonkeyMove_79: -1155614090
+      MonkeyMove_20: -553323000
+      MonkeyMove_4: -1685351322
+      MonkeyMove_74: 1213392650
+      MonkeyMove_84: -1736469718
+      MonkeyMove_90: 391751049
+      MonkeyMove_24: -517505846
+      MonkeyMove_35: -2022877509
+      MonkeyMove_49: -659026050
+      MonkeyMove_105: 395116211
+      MonkeyMove_30: -1635408955
+      MonkeyMove_46: 402920443
+      MonkeyMove_102: 687245509
+      MonkeyMove_40: 218508660
+      MonkeyMove_101: -1668147326
+      MonkeyMove_83: 1073319284
+      MonkeyMove_107: 778553965
+      MonkeyMove_9: 1033336578
+      MonkeyMove_14: -796756274
+      MonkeyMove_95: -2055810315
+      MonkeyMove_106: -1315367298
+      MonkeyMove_19: -1692123530
+      MonkeyMove_64: 1511000983
+      MonkeyMove_59: -392172173
+      MonkeyMove_18: 505255019
+      MonkeyMove_93: 1098284954
+      MonkeyMove_108: -1988881021
+      MonkeyMove_50: 2013901867
+      MonkeyMove_58: -83688153
+      MonkeyMove_13: 1642557701
+      MonkeyMove_70: -633068549
+      MonkeyMove_21: -1549190706
+      MonkeyMove_26: 640773641
+      MonkeyMove_3: 883206727
+      MonkeyMove_71: -813310959
+      MonkeyMove_53: 1422718316
+      MonkeyMove_12: 1990294891
+      MonkeyMove_54: -1928193650
+      MonkeyMove_67: 921732458
+      MonkeyMove_98: -1842112680
+      MonkeyMove_11: -1733271006
+      MonkeyMove_75: 15571712
+      MonkeyMove_44: -110698066
+      MonkeyMove_45: -1495060936
+      MonkeyMove_51: -780893123
+      MonkeyMove_36: 1735873833
+      MonkeyMove_17: -196454496
+      MonkeyMove_47: 1208993528
+      MonkeyMove_66: -1820974406
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

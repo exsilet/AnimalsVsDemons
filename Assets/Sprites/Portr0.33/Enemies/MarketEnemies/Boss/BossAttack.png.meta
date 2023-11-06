@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 04c0e5eba0923b348896aad3c5deabc5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 860
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce04fe75f9c56247ab1d5bef894ed28
+      internalID: -1768397722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 860
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8283429c4db021d43b0b42a5233e8eba
+      internalID: 2092777377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 860
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743dfc6c233f634db68e970b0a80767
+      internalID: -1408404530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 861
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57529a0cdd7d11d4c8f98d7eeaf9b2e0
+      internalID: 1584655838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 692
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f675321977e72048b65036eeca5d8bf
+      internalID: -13178707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 692
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1d3568c5ed364b82ec209a45e86f7
+      internalID: 1562746599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 692
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07858fa8db10543b6a19be37af084b
+      internalID: 175478351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 692
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705ae16fb2b3684c92cbb26d415f055
+      internalID: -1805956984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 524
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b42d75ce797544d95bbde4ac3d879b
+      internalID: 412832214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 524
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68073525dbcb5949859752fb775c131
+      internalID: 484253338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 524
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388ede7534f8f4418c68d6d2a29fd2c
+      internalID: 256360724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 524
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c2da3d2cc165499e62ce38b684de4
+      internalID: -640930509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 357
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872b598a7264c94ea6f7c33f51d856d
+      internalID: -448928205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 358
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d6f6d8827fbd4986020f992216bab
+      internalID: 2034747003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 358
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60fc2de022247409432dc2447b0485
+      internalID: 849510454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 358
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6875fcb8d494ab41b3e18f30c7790ee
+      internalID: -1235472671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 188
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93841981a6495e348b247c9cc9dbe34c
+      internalID: 181057443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 188
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a255841bf4b343b7b3f265b472c1a
+      internalID: 810149178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 189
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce3439e6e5c0a64886b2b2a01cc4334
+      internalID: -1583125442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 188
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075255220d7d33d46bd21a21552c12e3
+      internalID: -770118901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e195754a0b554a8c6646972a76b24
+      internalID: 96105566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13b40fa7a31eb4c8471451b466c6d4
+      internalID: 530430996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 20
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28e662fd540c44eb8bac1e20513209
+      internalID: -1537437635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 20
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d893dcb672cceac47968369a0c42d6ba
+      internalID: 941362797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossAttack_232: -671286745
+      BossAttack_204: 1419148703
+      BossAttack_117: 1960944637
+      BossAttack_39: 813841058
+      19: -1583125442
+      BossAttack_142: 56845116
+      BossAttack_133: 1801968145
+      BossAttack_200: -1740517752
+      BossAttack_249: 1977648782
+      BossAttack_164: 646179360
+      BossAttack_121: -1385099366
+      BossAttack_228: -1935281183
+      BossAttack_62: 1581078651
+      6: 1562746599
+      BossAttack_44: -1307356537
+      BossAttack_144: -1300884998
+      BossAttack_125: -339959924
+      BossAttack_184: -2005701439
+      BossAttack_180: -1658651950
+      BossAttack_68: -1414539908
+      BossAttack_203: 34962510
+      BossAttack_211: 2015924149
+      BossAttack_61: -1207051309
+      BossAttack_196: -1163381677
+      BossAttack_154: -967276221
+      BossAttack_28: 1592450782
+      BossAttack_258: -381176687
+      BossAttack_252: -424667162
+      BossAttack_141: 312301749
+      BossAttack_174: -1650360135
+      BossAttack_193: 1892424478
+      BossAttack_107: -910212448
+      BossAttack_207: -2123271280
+      BossAttack_150: -191856262
+      BossAttack_223: -1814454758
+      BossAttack_95: -991163522
+      BossAttack_83: -873132780
+      BossAttack_247: -1281978432
+      BossAttack_89: 357714341
+      BossAttack_4: -1279686617
+      BossAttack_123: -2056177687
+      BossAttack_172: 1192800447
+      4: 1584655838
+      BossAttack_78: -1687244281
+      16: -448928205
+      9: 412832214
+      BossAttack_255: 588537769
+      14: 849510454
+      BossAttack_10: -1262610360
+      BossAttack_176: 243300178
+      BossAttack_131: 1425164300
+      BossAttack_77: 1464746667
+      BossAttack_166: 221821573
+      BossAttack_98: 773326329
+      BossAttack_112: -441374285
+      BossAttack_213: -1561081564
+      BossAttack_220: -838105223
+      BossAttack_260: 1458105089
+      BossAttack_241: 270782032
+      BossAttack_187: 474445984
+      BossAttack_14: -1022062608
+      BossAttack_73: 1137715353
+      BossAttack_113: 900474290
+      BossAttack_11: 977766267
+      17: 181057443
+      15: -1235472671
+      BossAttack_24: -691264376
+      BossAttack_118: -1790572301
+      BossAttack_54: -1414522677
+      BossAttack_46: -266405578
+      BossAttack_82: 318430276
+      BossAttack_233: -637186828
+      BossAttack_132: -949151208
+      BossAttack_138: -1839994969
+      BossAttack_219: -1044765695
+      BossAttack_32: -939577803
+      BossAttack_27: -1972675711
+      BossAttack_245: -713889161
+      BossAttack_160: -402462797
+      BossAttack_140: -118695544
+      BossAttack_134: 492785132
+      BossAttack_38: -1604907235
+      BossAttack_215: 454008773
+      BossAttack_119: 530606457
+      BossAttack_137: 1108784299
+      BossAttack_55: 2047424070
+      BossAttack_128: 979512038
+      BossAttack_109: 1674627266
+      BossAttack_170: -551743870
+      BossAttack_36: 1265332788
+      BossAttack_250: 1017994693
+      BossAttack_22: 228769457
+      BossAttack_5: 1896511073
+      BossAttack_130: 1589073525
+      BossAttack_145: -110035238
+      BossAttack_80: -1959837288
+      BossAttack_236: 1144587914
+      BossAttack_205: 128888279
+      BossAttack_65: 583097039
+      BossAttack_225: 214454988
+      BossAttack_235: -2140276233
+      8: -1805956984
+      BossAttack_185: -1839431148
+      BossAttack_156: 1434240932
+      BossAttack_198: 1854704302
+      BossAttack_101: -1794823238
+      BossAttack_212: -1001768813
+      BossAttack_75: 1232799216
+      BossAttack_148: 669414870
+      BossAttack_256: 1309742058
+      2: -1408404530
+      BossAttack_33: 346998598
+      BossAttack_35: -406205342
+      BossAttack_230: -2141722972
+      BossAttack_188: 901041142
+      BossAttack_67: -1441142360
+      BossAttack_7: -436158824
+      BossAttack_90: 1670721396
+      BossAttack_84: -506387003
+      BossAttack_99: -104876728
+      1: -1768397722
+      BossAttack_195: 1269267498
+      BossAttack_167: -1188010147
+      BossAttack_1: -705147204
+      BossAttack_253: 1453025786
+      BossAttack_18: 114434906
+      10: 484253338
+      BossAttack_45: 1316203776
+      BossAttack_192: 1305326994
+      BossAttack_244: 2110489330
+      BossAttack_163: 307123606
+      BossAttack_13: -772490369
+      BossAttack_239: 450986618
+      BossAttack_97: -934429416
+      BossAttack_40: 701985698
+      BossAttack_173: -1367122443
+      BossAttack_41: -1142526105
+      BossAttack_229: -1593893155
+      12: -640930509
+      BossAttack_261: -1038797094
+      BossAttack_88: 2074984611
+      BossAttack_246: -593022283
+      BossAttack_49: -1055314404
+      BossAttack_25: -2044114281
+      5: -13178707
+      BossAttack_48: -1382868054
+      BossAttack_169: -704174792
+      BossAttack_79: -1554569516
+      BossAttack_231: 669414328
+      BossAttack_115: 471164622
+      BossAttack_19: -875096986
+      BossAttack_168: -436924809
+      BossAttack_3: 318100727
+      BossAttack_177: 344365758
+      BossAttack_30: -987857650
+      BossAttack_21: 1844824405
+      BossAttack_157: -749086615
+      23: -1537437635
+      BossAttack_222: 1993310179
+      BossAttack_234: 871892572
+      BossAttack_251: 99110219
+      BossAttack_85: 1316962255
+      BossAttack_237: -880923923
+      BossAttack_31: -591395482
+      BossAttack_108: 21443832
+      BossAttack_248: -833452468
+      BossAttack_86: 1678801703
+      BossAttack_91: 7303339
+      BossAttack_149: -1501374872
+      BossAttack_129: -1175307682
+      BossAttack_114: 101875552
+      BossAttack_127: 1614134555
+      BossAttack_106: 1622077524
+      BossAttack_69: 2045503667
+      BossAttack_42: -1423995245
+      BossAttack_12: 447718119
+      BossAttack_136: 301147295
+      BossAttack_20: -1172207309
+      22: 530430996
+      BossAttack_210: -353492934
+      BossAttack_72: 1816842462
+      BossAttack_105: 1541958509
+      BossAttack_161: 881919872
+      BossAttack_17: -35460472
+      24: 941362797
+      BossAttack_59: -564900531
+      BossAttack_71: 2060069881
+      BossAttack_8: -1296335527
+      BossAttack_26: 1788793702
+      BossAttack_158: 549573397
+      BossAttack_264: 782892396
+      BossAttack_186: 1017176438
+      BossAttack_47: 1673395709
+      BossAttack_96: -1915535361
+      BossAttack_191: -1245083131
+      BossAttack_214: -1894897426
+      3: 2092777377
+      BossAttack_254: 131207005
+      BossAttack_175: 58420590
+      BossAttack_206: 320844825
+      BossAttack_182: -63622561
+      BossAttack_87: 1669922602
+      BossAttack_179: 110765704
+      18: 810149178
+      BossAttack_66: 992980261
+      BossAttack_218: -536622338
+      BossAttack_155: 899637281
+      21: 96105566
+      BossAttack_181: -372588863
+      BossAttack_58: -709388291
+      BossAttack_165: 264108379
+      BossAttack_110: -47757688
+      BossAttack_209: 123727553
+      BossAttack_15: 863648216
+      BossAttack_124: 1022087674
+      BossAttack_226: 362399306
+      BossAttack_147: -816240792
+      BossAttack_56: 1528292574
+      BossAttack_199: 1882407477
+      BossAttack_143: 1781101014
+      BossAttack_60: 1719682355
+      BossAttack_190: 982742475
+      BossAttack_224: -1215874931
+      BossAttack_135: 1966353133
+      BossAttack_217: 47294878
+      BossAttack_37: 929901495
+      BossAttack_64: -45079176
+      11: 256360724
+      BossAttack_216: -177730003
+      BossAttack_259: -1463725757
+      BossAttack_120: 277674445
+      BossAttack_94: 2062273968
+      BossAttack_171: -2021160848
+      BossAttack_159: -1194057185
+      BossAttack_116: -516147860
+      BossAttack_178: -1206739448
+      20: -770118901
+      BossAttack_162: 858933391
+      BossAttack_93: -670888702
+      BossAttack_70: 1164669360
+      BossAttack_227: 628877317
+      BossAttack_74: 92046421
+      BossAttack_221: 908664051
+      BossAttack_34: -1275575868
+      13: 2034747003
+      BossAttack_43: -1278136476
+      BossAttack_126: 191907508
+      BossAttack_208: -1709573123
+      BossAttack_57: 1548164124
+      BossAttack_183: 341557393
+      BossAttack_63: -121865743
+      BossAttack_29: -943222315
+      BossAttack_146: -779092341
+      BossAttack_202: 1621623395
+      7: 175478351
+      BossAttack_262: 360985816
+      BossAttack_23: 800556159
+      BossAttack_257: 2058955082
+      BossAttack_81: 1786586383
+      BossAttack_122: 1346352887
+      BossAttack_111: 940289003
+      BossAttack_92: -759541225
+      BossAttack_263: 1877204197
+      BossAttack_76: 1935278842
+      BossAttack_16: 1518248477
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

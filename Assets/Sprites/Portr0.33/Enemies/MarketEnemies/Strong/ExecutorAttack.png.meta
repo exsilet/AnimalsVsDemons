@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: f4bd1b08047871e48be40ac013b0d453
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExecutorAttack_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 860
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea683d7b6d969e441aa8858f13c6142d
+      internalID: 1087378844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 860
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca332246e547b44382bb9fb7f9b48ce
+      internalID: -1928992204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 860
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd92876147ea845bdff2f4eee1782d
+      internalID: 1012408161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 860
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f894414ce45d3c468a68fe38b88633d
+      internalID: 72222881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 692
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f28f344d822048996af9e204d9c3c
+      internalID: -763603313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 692
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c82dc385572c42a9c83394071c50f
+      internalID: -1274830646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 692
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85ad3f35822fa479fa3a0d1266cc65
+      internalID: 1660451501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 692
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66436c9a2f127eb429b3bf660285ead0
+      internalID: 1156725126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 524
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522dcc78d667bb4b9e9bda4199a3cd5
+      internalID: 1783014406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 524
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a3f66d66b44d4ab8862dfaec2e2b7
+      internalID: -846946762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 524
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2eb87f65ccdbc44a3ad8b6201d58b3
+      internalID: -1812550519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 524
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a16b5f03f92141bc83cd610d7f2eb
+      internalID: -1974837393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 357
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a801ead3ed1762e41b3eee0397c26f04
+      internalID: 741742080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 357
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d53a6679fb2c4c86b0829d3196c99
+      internalID: -542206440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 357
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f264ad683ea0914cbe4a5a3e668f6a4
+      internalID: 319792495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 357
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712a2f27165aac41a03855d9cd45dd6
+      internalID: -971752463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 190
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd8d1ff4e38e349b2e52ad78d79d94
+      internalID: -2007278371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 190
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10002f67af252bf4080ec8d0eff18354
+      internalID: 148294641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 190
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83afa4cc9c9ed40b52d54ac1a5960b
+      internalID: 327889589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 190
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3efcc2e80e1a541b2e14e6f37ec104
+      internalID: 575524146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ea1b335e2d084ebca317b9fc5bb0e
+      internalID: -70191318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a5fccace0900c44b0bd2b44e507aa2
+      internalID: 1254519160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 22
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb8176bc526abd488d50ae5ea273124
+      internalID: 527350375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExecutorAttack_49
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 22
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea67e3e90e75c44a6a14724bd6c257
+      internalID: -1380991840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ExecutorAttack_21: 1783014406
+      ExecutorAttack_46: -1086741480
+      ExecutorAttack_1: 1087378844
+      ExecutorAttack_48: 527350375
+      ExecutorAttack_8: -763603313
+      ExecutorAttack_20: -434585988
+      ExecutorAttack_12: 1877288008
+      ExecutorAttack_22: -846946762
+      ExecutorAttack_45: -70191318
+      ExecutorAttack_37: 148294641
+      ExecutorAttack_18: -518655943
+      ExecutorAttack_15: 102709348
+      ExecutorAttack_44: 1126711378
+      ExecutorAttack_24: -1812550519
+      ExecutorAttack_16: -2144031314
+      ExecutorAttack_43: 1548082552
+      ExecutorAttack_35: 915202231
+      ExecutorAttack_7: 1394079777
+      ExecutorAttack_11: 1660451501
+      ExecutorAttack_29: 450093473
+      ExecutorAttack_38: 327889589
+      ExecutorAttack_41: 25673457
+      ExecutorAttack_51: -344317292
+      ExecutorAttack_0: -1738334022
+      ExecutorAttack_19: -20050501
+      ExecutorAttack_42: 14688266
+      ExecutorAttack_4: 72222881
+      ExecutorAttack_5: 1677092019
+      ExecutorAttack_32: 319792495
+      ExecutorAttack_28: 210346069
+      ExecutorAttack_26: -1974837393
+      ExecutorAttack_25: 1638667229
+      ExecutorAttack_50: 295040632
+      ExecutorAttack_34: -2066247609
+      ExecutorAttack_13: -1096817749
+      ExecutorAttack_30: 741742080
+      ExecutorAttack_40: 148663543
+      ExecutorAttack_36: -2007278371
+      ExecutorAttack_2: -1928992204
+      ExecutorAttack_6: 1544377799
+      ExecutorAttack_10: -1831533546
+      ExecutorAttack_47: 1254519160
+      ExecutorAttack_14: 1156725126
+      ExecutorAttack_27: -1918833663
+      ExecutorAttack_9: -1274830646
+      ExecutorAttack_23: 975949962
+      ExecutorAttack_31: -542206440
+      ExecutorAttack_49: -1380991840
+      ExecutorAttack_39: 575524146
+      ExecutorAttack_3: 1012408161
+      ExecutorAttack_33: -971752463
+      ExecutorAttack_17: -588968617
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: e86272a46aa7b7a449a89aeb8f23f466
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YetiAttack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 860
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8754b60924c647b4477366f09a07c
+      internalID: 1174722924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 860
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b093de09b251ab43b934a74e391cf23
+      internalID: 1345766693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 860
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3b1bbcc5ee3e43a890de568c5758a
+      internalID: -192694328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 860
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8c11fc8ea6b54ca870984976993be
+      internalID: -1372366224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 694
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40a73aeb0145c4993a37cf540075b2
+      internalID: -80090062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 694
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc6eb4c3f5ea14f9f5081f03cde21c
+      internalID: 1475553764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 694
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf2392251b72d4a8656c5c08b17205
+      internalID: -978325301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 694
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867bd5f172766e4fbe8051163c10449
+      internalID: 378714933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1b51abd5e4224d989bf1318779d1c
+      internalID: -428117654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 527
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7067738ee9a03f41ac8828d002c0a2a
+      internalID: -408945057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 527
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd50ace51950c45978a2551b90bf5e
+      internalID: 846783020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 527
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9b9c8b129237428cd60ab318f9473
+      internalID: 1745216746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 360
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e4575182b81654083f3853bc03e92a
+      internalID: 2136280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 360
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f216fd017e874d92826790c356a7e
+      internalID: -237596883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 360
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40a7dae3d6ab8c4bae96cae21d9b181
+      internalID: 370731671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 360
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21530a6283e23d04f85755da2560674a
+      internalID: 983563571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e307867fe25f441af7506784f536f0
+      internalID: -1795849860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 193
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe36db10043354eb16d7ce3fe3726c
+      internalID: 721806010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 193
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f04b1daf0e6d46b32ccdebbd47ced
+      internalID: -1674038796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 193
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a6796c155f0d46b10710ef232bddf
+      internalID: -987465048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6a0c253f8ab0419a9fd44c1856561
+      internalID: 523808896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 25
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288264b276ea624f86e3935f67a3cc7
+      internalID: 806905289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 25
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a2ab78721f804cab248b532e8f849
+      internalID: 689003502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YetiAttack_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 25
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84973be26f401e64dbbad5ee673dd2e1
+      internalID: -1567763511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      YetiAttack_22: 806905289
+      YetiAttack_18: 721806010
+      YetiAttack_36: 1174221816
+      YetiAttack_43: -1836423105
+      YetiAttack_20: -987465048
+      YetiAttack_42: 1461698819
+      YetiAttack_49: -1714449337
+      YetiAttack_6: 1475553764
+      YetiAttack_53: -2003179986
+      YetiAttack_10: 846783020
+      YetiAttack_4: -1372366224
+      YetiAttack_38: 1452999327
+      YetiAttack_19: -1674038796
+      YetiAttack_44: 853875858
+      YetiAttack_41: -1874862816
+      YetiAttack_14: -237596883
+      YetiAttack_40: 1311170593
+      YetiAttack_7: -978325301
+      YetiAttack_28: -1073652855
+      YetiAttack_11: 1745216746
+      YetiAttack_17: -1795849860
+      YetiAttack_31: 300605495
+      YetiAttack_30: -316476410
+      YetiAttack_52: -1103224315
+      YetiAttack_0: 1174722924
+      YetiAttack_27: -115133596
+      YetiAttack_46: 52574955
+      YetiAttack_26: -403466367
+      YetiAttack_61: 348171138
+      YetiAttack_1: 1345766693
+      YetiAttack_58: 435021199
+      YetiAttack_5: -80090062
+      YetiAttack_35: -768772873
+      YetiAttack_3: -192694328
+      YetiAttack_45: 369496317
+      YetiAttack_16: 983563571
+      YetiAttack_9: -428117654
+      YetiAttack_8: 378714933
+      YetiAttack_55: -632382672
+      YetiAttack_60: -1942558510
+      YetiAttack_13: 2136280240
+      YetiAttack_21: 523808896
+      YetiAttack_23: 689003502
+      YetiAttack_24: -1567763511
+      YetiAttack_32: 1273255604
+      YetiAttack_33: 1290828121
+      YetiAttack_12: -408945057
+      YetiAttack_15: 370731671
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

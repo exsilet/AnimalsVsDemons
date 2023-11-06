@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: ede1d7a7f40cd2d45938219d04235415
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PenguinMove_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 840
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80eda980e2d91d4aa1116b839575308
+      internalID: 872407578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 842
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505dee59c75a2947aff8e58901a57ef
+      internalID: 861894980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 839
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f48d043def6834f95e67fc491250e6
+      internalID: -1883524407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 840
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b48e75075301814e8553a46d89e395a
+      internalID: 1345379377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 672
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b3b052f81fb54d81f22110fda85c0
+      internalID: 186880896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb95cd13958bf64c915b76ae267f59b
+      internalID: 1267129556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 672
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04685ae301960a478a4629a59fa7c66
+      internalID: 1973485969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 672
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eaaff82136c7d488f92ea8f585095a
+      internalID: 1923404537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 504
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40ad42b195b5f41bdf935b50c93b67
+      internalID: -1563910771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eee112b0397ad449c9d0d131ce53ff
+      internalID: -1806937553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbbcff0df321774dbd42e16196d2b38
+      internalID: -2061005020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 504
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955163c2f578f6e45b7ba9e43a245781
+      internalID: -1825259816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e124b399225d09419e76085c1eee64f
+      internalID: -356896093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 336
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25f041632f524428a57c71708fef2e
+      internalID: -749556551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 336
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a8bf345a65e146801263c4eb18789
+      internalID: -310641254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c234a6695acd84e92b167a95424433
+      internalID: -2098523640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf00f820d59c93548b0bb1d187132539
+      internalID: -1616839646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 168
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b43739c65e53468f9b0696a86bdee
+      internalID: 1475854803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 168
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0077754ef29042aa96a7570915434
+      internalID: -1047959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 168
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924749ae4486924992294e5ef637f3c
+      internalID: 1871439853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2d9bea70770d4089d6833b49d0285
+      internalID: 1077961904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3b51bb3c8abe45b5561eb1553d1fc
+      internalID: -797457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e809200498111845bbddb870dc66ce7
+      internalID: 1776117006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinMove_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa8bcfed198004f94bfbc0bfc2957a
+      internalID: 1285771017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PenguinMove_18: -1047959101
+      PenguinMove_79: 1165645686
+      PenguinMove_15: -2098523640
+      PenguinMove_32: 1921615437
+      PenguinMove_52: 2087391964
+      PenguinMove_75: 1302899568
+      PenguinMove_34: -563101392
+      PenguinMove_24: 1299523006
+      PenguinMove_68: -2033786865
+      PenguinMove_40: 849572820
+      PenguinMove_23: 1285771017
+      PenguinMove_78: -1167808690
+      PenguinMove_48: -472142953
+      PenguinMove_56: 2041385819
+      PenguinMove_38: -1145574837
+      PenguinMove_81: -696476421
+      PenguinMove_46: 1919693757
+      PenguinMove_6: 1973485969
+      PenguinMove_11: -1563910771
+      PenguinMove_27: 724054893
+      PenguinMove_19: 1871439853
+      PenguinMove_73: 830719136
+      PenguinMove_74: 1132043537
+      PenguinMove_35: -1000457989
+      PenguinMove_63: -1439658527
+      PenguinMove_77: -1982002558
+      PenguinMove_14: -310641254
+      PenguinMove_84: -111976905
+      PenguinMove_82: -1889769584
+      PenguinMove_16: -1616839646
+      PenguinMove_96: 1119852977
+      PenguinMove_31: -750172827
+      PenguinMove_51: -2117535236
+      PenguinMove_5: 1267129556
+      PenguinMove_37: 362849368
+      PenguinMove_7: 1923404537
+      PenguinMove_94: -1550664661
+      PenguinMove_93: -1948115640
+      PenguinMove_9: -2061005020
+      PenguinMove_26: 794383801
+      PenguinMove_86: -526910954
+      PenguinMove_33: -771099876
+      PenguinMove_36: 1616858157
+      PenguinMove_95: 221878336
+      PenguinMove_13: -749556551
+      PenguinMove_66: 250942279
+      PenguinMove_3: 1345379377
+      PenguinMove_0: 872407578
+      PenguinMove_17: 1475854803
+      PenguinMove_2: -1883524407
+      PenguinMove_4: 186880896
+      PenguinMove_20: 1077961904
+      PenguinMove_12: -356896093
+      PenguinMove_28: 1309492835
+      PenguinMove_58: 324323929
+      PenguinMove_30: 1534088837
+      PenguinMove_29: -1258072386
+      PenguinMove_10: -1825259816
+      PenguinMove_49: -436830076
+      PenguinMove_67: -2058166432
+      PenguinMove_47: 1433525255
+      PenguinMove_50: 1620465189
+      PenguinMove_1: 861894980
+      PenguinMove_80: -30859281
+      PenguinMove_55: 2125742123
+      PenguinMove_64: -837313098
+      PenguinMove_22: 1776117006
+      PenguinMove_61: -1380476619
+      PenguinMove_43: -383480620
+      PenguinMove_21: -797457400
+      PenguinMove_76: 277238114
+      PenguinMove_85: -1456930509
+      PenguinMove_41: -678674319
+      PenguinMove_87: -1243166665
+      PenguinMove_53: 267043282
+      PenguinMove_8: -1806937553
+      PenguinMove_89: 351910920
+      PenguinMove_83: 291990421
+      PenguinMove_97: 348331878
+      PenguinMove_65: -2050832568
+      PenguinMove_54: -734126740
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

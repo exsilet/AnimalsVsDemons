@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 00ac69b6fa79e344e96b82296f219c6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScarecrowAttack_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 727
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897207e8c4c1244295fc39989c1156f
+      internalID: 1067612139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 727
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a79633c3fbeb54c83bf124b5408bb5
+      internalID: -879847071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 727
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5b5b47923c90469892b4febb0fb89
+      internalID: -1000212339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 727
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e8159550c01e4bb3fb410c07879ad
+      internalID: 1412371754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 583
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b454327e4de546a533d1e2eef48cd
+      internalID: -996272581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 583
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360a40e94ee01143bab1233af9807f8
+      internalID: -504926737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 583
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b9bb302de52c49a070486c8fb14c8
+      internalID: -2128955786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 583
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73976c0c826eea34a81c7383ca72b42f
+      internalID: -57987195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 440
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeaede4706c5ea40807ec942924d319
+      internalID: 908821521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0229096a764f44479bf29f1ee91b305
+      internalID: 1200002724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 440
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a301069289da46b1caf7604eded88
+      internalID: 181692347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e101a013d55843b9eeb44e7336abf
+      internalID: 1069270089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 295
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d380d891879434ebc9a3019a7c52d4
+      internalID: 1758638566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 295
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff0c3d9653d2948a1bb4aaaa4e2bee
+      internalID: 351797863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 295
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9e53a247e558438072934b76407ee
+      internalID: -795883762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 295
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e195959f98ef94f8ccc39678bd731b
+      internalID: -408857531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754431d090e3cd45abfac6f612bb3b3
+      internalID: -1342209488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e511211580bc294c82e04cb1af05fd3
+      internalID: -495129156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 152
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367cc89d28cebec468ed4e74e4a9ef98
+      internalID: -2097610411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf4cc1f651e2144a7a2819aadc7f03
+      internalID: 2063084316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afaad7287d1c347a690da1ae897cd4
+      internalID: -1324033988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210cbc4d292272046857798866db13ce
+      internalID: -1747768736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c86ab8bb44dee248b7f96cd323b9c3c
+      internalID: -456103064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowAttack_66
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c82c3946da924693b61ca2f4c3072
+      internalID: -549955502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ScarecrowAttack_3: -879847071
+      ScarecrowAttack_60: -2119201645
+      ScarecrowAttack_34: 1069270089
+      ScarecrowAttack_63: -1747768736
+      ScarecrowAttack_49: -731865031
+      ScarecrowAttack_66: -549955502
+      ScarecrowAttack_18: -2128955786
+      ScarecrowAttack_25: 1576399233
+      ScarecrowAttack_10: 515947051
+      ScarecrowAttack_41: 1265121188
+      ScarecrowAttack_50: -1605224125
+      ScarecrowAttack_35: -1335148215
+      ScarecrowAttack_62: -1324033988
+      ScarecrowAttack_70: 165326749
+      ScarecrowAttack_43: -1676889773
+      ScarecrowAttack_59: -94362956
+      ScarecrowAttack_8: 274672144
+      ScarecrowAttack_57: -199681315
+      ScarecrowAttack_48: -1423527335
+      ScarecrowAttack_13: 623298397
+      ScarecrowAttack_30: 908821521
+      ScarecrowAttack_1: 1067612139
+      ScarecrowAttack_26: -1266792459
+      ScarecrowAttack_51: -639785870
+      ScarecrowAttack_53: -495129156
+      ScarecrowAttack_17: -1711050758
+      ScarecrowAttack_27: -1037140085
+      ScarecrowAttack_28: -910483666
+      ScarecrowAttack_12: -1635592558
+      ScarecrowAttack_36: -803232508
+      ScarecrowAttack_54: -2097610411
+      ScarecrowAttack_31: 1200002724
+      ScarecrowAttack_40: -795883762
+      ScarecrowAttack_20: 1625681885
+      ScarecrowAttack_6: 1412371754
+      ScarecrowAttack_2: -1023342949
+      ScarecrowAttack_29: 1994423350
+      ScarecrowAttack_15: -1840029030
+      ScarecrowAttack_68: 786892148
+      ScarecrowAttack_0: 25992555
+      ScarecrowAttack_19: -57987195
+      ScarecrowAttack_14: -996272581
+      ScarecrowAttack_32: -1658572716
+      ScarecrowAttack_5: -1000212339
+      ScarecrowAttack_69: -833446248
+      ScarecrowAttack_55: -1969322077
+      ScarecrowAttack_67: -604937473
+      ScarecrowAttack_52: -1342209488
+      ScarecrowAttack_9: 681715239
+      ScarecrowAttack_11: 1915267138
+      ScarecrowAttack_46: -1820701310
+      ScarecrowAttack_38: 1758638566
+      ScarecrowAttack_21: -1214485467
+      ScarecrowAttack_45: -1787617696
+      ScarecrowAttack_44: -485955000
+      ScarecrowAttack_47: 1469565585
+      ScarecrowAttack_64: -607706765
+      ScarecrowAttack_56: 2063084316
+      ScarecrowAttack_42: -408857531
+      ScarecrowAttack_58: -469001500
+      ScarecrowAttack_16: -504926737
+      ScarecrowAttack_7: 12333946
+      ScarecrowAttack_39: 351797863
+      ScarecrowAttack_24: 141019068
+      ScarecrowAttack_61: 1006790883
+      ScarecrowAttack_65: -456103064
+      ScarecrowAttack_37: -454209090
+      ScarecrowAttack_22: 250687952
+      ScarecrowAttack_4: -2122469099
+      ScarecrowAttack_23: 842360313
+      ScarecrowAttack_33: 181692347
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

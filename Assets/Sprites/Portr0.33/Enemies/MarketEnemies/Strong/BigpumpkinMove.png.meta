@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 94d50f00398ffb643affdf319c609685
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigpumpkinMove_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9acb08baee10f441bac4d61421cfb21
+      internalID: 445190641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d95bdea497cb14eac21e3b5466edd8
+      internalID: -1944052492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 675
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fc2bcc615a644ebc03e5084581591
+      internalID: 1027981098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 675
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63045e7f3519e054f93046d329207621
+      internalID: -491313524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 540
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c647491a2eba4499ab79d67396120
+      internalID: -756657535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 540
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3fab9c67d7eb24c98652d4f2633abe
+      internalID: 31707156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 540
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb0da923d772c4497f6d2379823af8
+      internalID: -2061995136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 540
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c4a7eb84debc439089d1d0adc12cb
+      internalID: 1295260370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 406
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bd1ba565fc0e8428e21a03d6978816
+      internalID: -1029771489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 406
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9fda1d6132714a941e63e32722ba3
+      internalID: -942381644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 406
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49c806c97f27d4b9ff5a12dd639e6a
+      internalID: -1795458825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 406
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1569c7058cd0342bb504961d1c7660
+      internalID: 769598529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2f62329fe42e2409e0bebe9497787a
+      internalID: 449265012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3fb02de0c0f3e4aaabcd5ef2f23c5d
+      internalID: 1125981962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841fdbec56839364285b214130172747
+      internalID: 992311532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac01cee9f424714a87e4209a4f14e14
+      internalID: 2033268059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 142
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467b22a34ba2f940be73798afcd7032
+      internalID: -976541871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 142
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794875ab7aaaebb4fa674f911cd81bb0
+      internalID: 598780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 142
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261b276e3070424a9bfc058c04ca515
+      internalID: 1371663545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 142
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec9b16be8320544a5ab67f044fa3a3
+      internalID: -1320796849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b84fd5a6690dc4785fa05a6bea8def
+      internalID: 996546920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f0199cb43359b41a49f79d4ac990be
+      internalID: 214122726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e6923a6d49774c972fdd57b630182
+      internalID: 658477628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinMove_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b60eb348e03346af6e6d04deeac66
+      internalID: 17791513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BigpumpkinMove_43: 544064862
+      BigpumpkinMove_38: -1535035243
+      BigpumpkinMove_70: -552072953
+      BigpumpkinMove_32: -421982817
+      BigpumpkinMove_11: 769598529
+      BigpumpkinMove_7: 1295260370
+      BigpumpkinMove_39: 63353173
+      BigpumpkinMove_33: -181515414
+      BigpumpkinMove_14: 992311532
+      BigpumpkinMove_60: 1526710782
+      BigpumpkinMove_36: -454151737
+      BigpumpkinMove_34: 734342882
+      BigpumpkinMove_23: 17791513
+      BigpumpkinMove_6: -2061995136
+      BigpumpkinMove_19: -1320796849
+      BigpumpkinMove_50: -1735391506
+      BigpumpkinMove_0: 445190641
+      BigpumpkinMove_15: 2033268059
+      BigpumpkinMove_17: 598780246
+      BigpumpkinMove_24: 1767466711
+      BigpumpkinMove_45: -374107089
+      BigpumpkinMove_28: 259832416
+      BigpumpkinMove_13: 1125981962
+      BigpumpkinMove_22: 658477628
+      BigpumpkinMove_59: -1003898781
+      BigpumpkinMove_61: 1817817482
+      BigpumpkinMove_5: 31707156
+      BigpumpkinMove_4: -756657535
+      BigpumpkinMove_10: -1795458825
+      BigpumpkinMove_2: 1027981098
+      BigpumpkinMove_20: 996546920
+      BigpumpkinMove_9: -942381644
+      BigpumpkinMove_69: -1602768844
+      BigpumpkinMove_72: 839551483
+      BigpumpkinMove_40: -1042082519
+      BigpumpkinMove_51: 882786961
+      BigpumpkinMove_35: 148340848
+      BigpumpkinMove_67: -1510394574
+      BigpumpkinMove_3: -491313524
+      BigpumpkinMove_12: 449265012
+      BigpumpkinMove_71: -249747932
+      BigpumpkinMove_8: -1029771489
+      BigpumpkinMove_52: -149811745
+      BigpumpkinMove_56: -480233098
+      BigpumpkinMove_30: 879021063
+      BigpumpkinMove_18: 1371663545
+      BigpumpkinMove_26: -940324459
+      BigpumpkinMove_37: 1456198023
+      BigpumpkinMove_16: -976541871
+      BigpumpkinMove_62: -73463646
+      BigpumpkinMove_75: -1861458975
+      BigpumpkinMove_68: 2067926476
+      BigpumpkinMove_41: 255309949
+      BigpumpkinMove_73: -2066606691
+      BigpumpkinMove_74: -1680933532
+      BigpumpkinMove_53: 2124959716
+      BigpumpkinMove_49: -1694568682
+      BigpumpkinMove_1: -1944052492
+      BigpumpkinMove_21: 214122726
+      BigpumpkinMove_42: -887075012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

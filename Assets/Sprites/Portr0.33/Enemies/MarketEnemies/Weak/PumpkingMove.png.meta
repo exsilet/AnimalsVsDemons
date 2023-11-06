@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 0c17754868b9a0c469768ff0283e3efd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PumpkingMove_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 670
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbcea4289419f347a211578d8ddbe4a
+      internalID: -223663555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 670
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aadd1cd9df10db4bb9dbce9bd0370bc
+      internalID: 726723808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 670
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254797c9ca7fe774cbe67b9112f53e0a
+      internalID: -773974293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 670
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629175ac28be414aa192638f6f75be9
+      internalID: -731651311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 539
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d0ec1c682b5340ad2fb3a85901746
+      internalID: -530810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 539
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88615c5f44c334343adba3e1cac8ea24
+      internalID: 769672127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 539
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04762fa6c7809684ba32ddaedd9e6471
+      internalID: 1464570662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 539
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8942164104eded041bf2c29a64d79b4f
+      internalID: 585524435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1332e97f5593410438faca1b877eb8e8
+      internalID: 320608887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 407
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f7bf272ad6ca4c9d890a7e40267d7
+      internalID: -364821478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 407
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf7cecbdfd9434dbc39b6a8dae7638
+      internalID: 913652820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 407
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7f458882276b4fa044c7e43e5eb17
+      internalID: 651861147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 273
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b55ae4e13ff34b8169e6a2593c22b
+      internalID: -1898979376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15adae25ed7b4fe40a6345e0ba0458eb
+      internalID: 493888432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 273
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a2cf847af192b468a7bd4c336fa24d
+      internalID: -478543880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 273
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2d1ae092a57e4ba08ff3a43505126
+      internalID: 1328933010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446807f03934fd4c9917785b6e207c3
+      internalID: 1369994659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 140
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ea747aa40e8ac4d85995b67a9e69a0
+      internalID: -785901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 140
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e9283f2881f845948128f75817e09
+      internalID: -1393403983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_63
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 140
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f59c6e23f4b0478a8bed01c4c1cf4
+      internalID: 1309108503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd66b25898051a9499d489042788dbc0
+      internalID: 330035562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460554e1c8677534ca4263ae12730da1
+      internalID: -208033755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384b9626e59b0f4bb6a60d6a06d597e
+      internalID: -790432282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkingMove_78
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b064f6c431e8204dab2f3a7e6cb6b0b
+      internalID: 1804954152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PumpkingMove_44: -1898979376
+      PumpkingMove_32: -364821478
+      PumpkingMove_24: 41449357
+      PumpkingMove_20: -1518515502
+      PumpkingMove_2: -773974293
+      PumpkingMove_23: 309748470
+      PumpkingMove_68: 1380757107
+      PumpkingMove_5: -631691310
+      PumpkingMove_11: 1880108011
+      PumpkingMove_43: 1365478938
+      PumpkingMove_40: 1641780128
+      PumpkingMove_67: 380714462
+      PumpkingMove_78: 1804954152
+      PumpkingMove_36: 651861147
+      PumpkingMove_16: -1822192685
+      PumpkingMove_60: -1393403983
+      PumpkingMove_39: 2030547338
+      PumpkingMove_64: -1226514259
+      PumpkingMove_3: -731651311
+      PumpkingMove_80: 851552167
+      PumpkingMove_72: -459910739
+      PumpkingMove_59: -785901981
+      PumpkingMove_58: -502783867
+      PumpkingMove_25: -212206493
+      PumpkingMove_79: -1418938348
+      PumpkingMove_61: 929781544
+      PumpkingMove_33: 913652820
+      PumpkingMove_48: -478543880
+      PumpkingMove_6: -1636165689
+      PumpkingMove_70: -1189694899
+      PumpkingMove_21: -155818642
+      PumpkingMove_0: -223663555
+      PumpkingMove_18: 279560448
+      PumpkingMove_22: 1503820792
+      PumpkingMove_10: -1267813156
+      PumpkingMove_45: -1967356711
+      PumpkingMove_50: -1048132932
+      PumpkingMove_12: -1377974260
+      PumpkingMove_7: 635429438
+      PumpkingMove_41: -1760461598
+      PumpkingMove_42: -1984468004
+      PumpkingMove_1: 726723808
+      PumpkingMove_47: 631834015
+      PumpkingMove_38: -1930765080
+      PumpkingMove_52: -617856102
+      PumpkingMove_8: -586315200
+      PumpkingMove_19: 585524435
+      PumpkingMove_73: 330035562
+      PumpkingMove_4: 857696483
+      PumpkingMove_53: 1018577440
+      PumpkingMove_65: -1619199368
+      PumpkingMove_69: -116628322
+      PumpkingMove_81: 2077295367
+      PumpkingMove_71: 325175074
+      PumpkingMove_9: 784821009
+      PumpkingMove_29: -1290494087
+      PumpkingMove_49: 1328933010
+      PumpkingMove_13: 742108012
+      PumpkingMove_37: 351353957
+      PumpkingMove_77: -964537414
+      PumpkingMove_74: 554497888
+      PumpkingMove_76: -790432282
+      PumpkingMove_62: 1792578069
+      PumpkingMove_57: 1677605868
+      PumpkingMove_46: 493888432
+      PumpkingMove_26: -817847652
+      PumpkingMove_15: 769672127
+      PumpkingMove_34: 623765457
+      PumpkingMove_28: -395921623
+      PumpkingMove_31: 1712626743
+      PumpkingMove_51: 1318540514
+      PumpkingMove_66: -744051827
+      PumpkingMove_27: 1426294008
+      PumpkingMove_35: 279590030
+      PumpkingMove_75: -208033755
+      PumpkingMove_63: 1309108503
+      PumpkingMove_54: -1574493618
+      PumpkingMove_17: 1464570662
+      PumpkingMove_55: 1369994659
+      PumpkingMove_56: -191093632
+      PumpkingMove_14: -530810988
+      PumpkingMove_30: 320608887
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

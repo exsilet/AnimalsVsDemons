@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 74b1cc26421e0804b9bdfce99aca4569
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BullMove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcf6f6910fbee4b971585115c00e45
+      internalID: 1592321415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 850
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f535ebfac66d499be12c1dfd2984a
+      internalID: 1549745234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 850
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f2a956df8fe5b4eb0f9ea47b9ae2b6
+      internalID: 577568125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 850
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79542e78c5e0040b622dffc36c1967
+      internalID: -1166152498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dfb148dbe4a284480d598144eece7c
+      internalID: -400311882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 678
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a143e1d1ca0204d9b220c460bc2d12
+      internalID: -1142961390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 679
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c428fa91c39dad458b0c99b6e9b8e88
+      internalID: -2016605593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 676
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0b0eb5f8824b498d2989d71fac0b9
+      internalID: -61985031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 512
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af746f32aa972314588a501ec58dd241
+      internalID: 594449733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 512
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d655c49a831ead4b8bb9a01a1d3955c
+      internalID: -1984897996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715f7a6c29cc90b46a5707425e148eef
+      internalID: 1146343042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 512
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c74a3cddaf2b04da2b2511bc7d211a
+      internalID: -1765086859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207e62435ae0ee46a530631c25801f4
+      internalID: -945826652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 347
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70ccf3c700025429f465bd5e8b423f
+      internalID: 1472637164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 347
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2fb90227a201c4b93433bb0bdb836a
+      internalID: -1241076742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 347
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47315d90f14652644acde3261d0ea280
+      internalID: 1043794830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aded5ba6534c147803732301695b76
+      internalID: -1581450034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 181
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e64d443e08604aa3ecd09cbc8e36e
+      internalID: 1348844832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 181
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add862a0d2e6e3b448f5f7a356e1754d
+      internalID: -1581776850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 181
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd704cbcf97b148bd20734cbf8be61
+      internalID: -1311997338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6171fbfed8334197208ab0e16fb09
+      internalID: 1466637572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 14
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6849c21abf11429b70a761e683306
+      internalID: 263738363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_70
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 15
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab5961462edf546a2c47035eda706a
+      internalID: 757513349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullMove_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a5a41909958d4791161b4f6dd134c
+      internalID: 601643032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BullMove_56: -1807437054
+      BullMove_19: 779300487
+      BullMove_30: -1096819364
+      BullMove_9: 221527948
+      BullMove_58: 317798075
+      BullMove_69: -1434095916
+      BullMove_41: 113674401
+      BullMove_61: 414149448
+      BullMove_50: 356611751
+      BullMove_35: -1940403101
+      BullMove_75: 921727567
+      BullMove_1: -735945176
+      BullMove_54: 806535503
+      BullMove_3: 1993350280
+      BullMove_64: -1311997338
+      BullMove_34: -1765086859
+      BullMove_14: -2016605593
+      BullMove_5: 577568125
+      BullMove_17: 2111551770
+      BullMove_24: -1882792358
+      BullMove_16: -61985031
+      BullMove_71: 195484541
+      BullMove_25: -877065898
+      BullMove_23: 699152200
+      BullMove_38: -993524030
+      BullMove_49: 1043794830
+      BullMove_26: -484212017
+      BullMove_66: 1466637572
+      BullMove_62: 1348844832
+      BullMove_45: -945826652
+      BullMove_10: 1054587759
+      BullMove_76: 1207506334
+      BullMove_46: 1472637164
+      BullMove_27: 594449733
+      BullMove_18: 1725423709
+      BullMove_47: -1241076742
+      BullMove_36: -801588065
+      BullMove_74: 896290485
+      BullMove_37: 1842282893
+      BullMove_39: -1430394980
+      BullMove_43: 1526666657
+      BullMove_40: 1436322734
+      BullMove_63: -1581776850
+      BullMove_15: -2004141209
+      BullMove_60: 7828834
+      BullMove_57: 1639851693
+      BullMove_68: 263738363
+      BullMove_0: 1592321415
+      BullMove_55: 479852869
+      BullMove_72: 1773456731
+      BullMove_70: 757513349
+      BullMove_2: 1549745234
+      BullMove_20: 1932084183
+      BullMove_21: -322657822
+      BullMove_29: -1984897996
+      BullMove_12: -991287465
+      BullMove_13: -1142961390
+      BullMove_6: 989321692
+      BullMove_22: -94489880
+      BullMove_44: -444387129
+      BullMove_51: -1625201150
+      BullMove_31: 1146343042
+      BullMove_7: -1901076839
+      BullMove_42: -1935526484
+      BullMove_59: -2014350593
+      BullMove_65: -1216107976
+      BullMove_8: -1166152498
+      BullMove_48: -884441242
+      BullMove_53: -1581450034
+      BullMove_32: 1666634436
+      BullMove_52: 1821983837
+      BullMove_33: 1655842045
+      BullMove_73: 1050861995
+      BullMove_78: 1582527657
+      BullMove_67: -629757753
+      BullMove_4: 676450609
+      BullMove_28: -137669384
+      BullMove_11: -400311882
+      BullMove_77: 601643032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

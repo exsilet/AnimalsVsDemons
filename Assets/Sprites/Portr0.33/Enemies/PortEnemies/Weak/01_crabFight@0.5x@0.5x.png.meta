@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 6d1271b5de3035b4c98daf5ee6e0a2d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 574
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68957f54d54945d45a5626d2c713ed80
+      internalID: -1535493034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 574
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed676d4e869c343aadf0fab1abdbd3
+      internalID: -1574858008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 576
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a36c2d957d86c4fb104e123b404ee0
+      internalID: -1966529109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 574
+        width: 119
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764b099e26d3d04393990ef5fd0ecc1
+      internalID: 416928063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 462
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc9bd6f8f88c745851989d0893be41
+      internalID: 1799272013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 465
+        width: 124
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace1d6ca7020d1448bd0e816b9ca522
+      internalID: -1666332465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 462
+        width: 126
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38b664d5c87e38459708188ddef78ef
+      internalID: 1695907739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 462
+        width: 126
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf08240ee567684a8025175d6b2a892
+      internalID: -812524502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 350
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ef92fe31360144afe194b420a1ad1
+      internalID: -1825945661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 350
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e1c82f226e3f4b8d294833a95b6bb
+      internalID: 436436899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 349
+        width: 142
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a473b140d3034986451a3b409f081
+      internalID: 228685357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 350
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364fb0763ed9e4346b2363f741a56a1e
+      internalID: -328832466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 237
+        width: 149
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf29d8b7effb79144b73a7e3a8793254
+      internalID: 52529583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 236
+        width: 152
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acccb1a5add17848b2a8a066ee81eeb
+      internalID: -810852569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 237
+        width: 150
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cce01049a6104999a587771df3a96
+      internalID: 368403315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba0ae4f6a9067e45a27d3b7de6351a6
+      internalID: -728274085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 142
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf482bda157bc4f89c15f67315754b
+      internalID: -1934736117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 124
+        width: 140
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675626f1fa61bb41ac7616747897bd5
+      internalID: -35690056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 126
+        width: 140
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba82f23793032b4db73409b9092b964
+      internalID: 693301245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 124
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccf675562cba94ea918e96565e12b1
+      internalID: -2051946354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07463abfa87c3804c887adce6a345f07
+      internalID: -916204096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc570341e1a927b42a3eeef701caae8d
+      internalID: -2061282289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 13
+        width: 117
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe3176182e41b41a0350ff0d22d6fc
+      internalID: 2088553483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01_crabFight@0.5x@0.5x_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87159200657aa47bbcef896b6111cd
+      internalID: -616212603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      01_crabFight@0.5x@0.5x_16: -1934736117
+      01_crabFight@0.5x@0.5x_10: 228685357
+      01_crabFight@0.5x@0.5x_8: -1825945661
+      01_crabFight@0.5x@0.5x_20: -916204096
+      01_crabFight@0.5x@0.5x_3: 416928063
+      01_crabFight@0.5x@0.5x_23: -616212603
+      01_crabFight@0.5x@0.5x_12: 52529583
+      01_crabFight@0.5x@0.5x_21: -2061282289
+      01_crabFight@0.5x@0.5x_2: -1966529109
+      01_crabFight@0.5x@0.5x_5: -1666332465
+      01_crabFight@0.5x@0.5x_6: 1695907739
+      01_crabFight@0.5x@0.5x_9: 436436899
+      01_crabFight@0.5x@0.5x_19: -2051946354
+      01_crabFight@0.5x@0.5x_14: 368403315
+      01_crabFight@0.5x@0.5x_0: -1535493034
+      01_crabFight@0.5x@0.5x_22: 2088553483
+      01_crabFight@0.5x@0.5x_15: -728274085
+      01_crabFight@0.5x@0.5x_18: 693301245
+      01_crabFight@0.5x@0.5x_4: 1799272013
+      01_crabFight@0.5x@0.5x_17: -35690056
+      01_crabFight@0.5x@0.5x_11: -328832466
+      01_crabFight@0.5x@0.5x_1: -1574858008
+      01_crabFight@0.5x@0.5x_13: -810852569
+      01_crabFight@0.5x@0.5x_7: -812524502
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

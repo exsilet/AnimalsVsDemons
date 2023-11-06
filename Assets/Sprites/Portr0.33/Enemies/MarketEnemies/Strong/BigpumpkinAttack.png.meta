@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 08ba7c04809e8c54e925eb6c93efb399
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigpumpkinAttack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7f5023348e1f4380f068735dbf461
+      internalID: -295178758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2396a8bea7a5498b828edb91445f8
+      internalID: -1013027934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbdb63c5a499074fbe05bdabd11006e
+      internalID: -1074925405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 676
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44e15d7e564564abbfb8b21bd083c4
+      internalID: -469512610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 542
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505cbef36fc2434e98e22fe125fe5df
+      internalID: 950443231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 542
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50c9a4dc7b8244c9ded3e0dc2bf832
+      internalID: -1079474612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 542
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d004b2352bf1ce45bebf0d001d47e0f
+      internalID: -1928611559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 542
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1755d00e1d9494e9234b40e7927b43
+      internalID: 1236376853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a23a5c3569e146a3a697712d5fa7e
+      internalID: 1111640378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 408
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927de3a0d785ab84bac011d62fcc452b
+      internalID: -1385857419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 408
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c9bad52bf3574cb4236d3211253a1
+      internalID: -1012044285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 408
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f447ab43001e32498407e44cb3fec8b
+      internalID: -2062289839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7545d43e09a84e94383a72092fd5e
+      internalID: 1842844327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a0adee4b067f44db86f9e66ebb2c2f
+      internalID: 527816839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 274
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51debb1429048624eb7fbb2e9caa6217
+      internalID: -527477236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 275
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81807d4048a7344a89edb59afabd33
+      internalID: -1543574302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3667c6c19ff407a4c88651814cfe8a66
+      internalID: -467186138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206d6759b45e124fb3183cc656378ed
+      internalID: 2109770835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46015a77e9b595f479cb23cc8771d3a4
+      internalID: 1998163561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_65
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1de767cfaf1a4497b652e3dd58908
+      internalID: -57348541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c7793362e6ce47a32289aa55be5c1
+      internalID: -1179937198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b6c6b526191447b21fb548e9b26c5
+      internalID: 1412806243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 6
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479f745b4ae5954e85404d9d7acaf8b
+      internalID: -20883077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigpumpkinAttack_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 6
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69583aa2050ef84b95fe3395c4a2d62
+      internalID: 589323990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BigpumpkinAttack_32: -702995326
+      BigpumpkinAttack_82: -1084045327
+      BigpumpkinAttack_22: 1006542282
+      BigpumpkinAttack_16: -1928611559
+      BigpumpkinAttack_26: -828602682
+      BigpumpkinAttack_86: -1054807210
+      BigpumpkinAttack_20: 215840187
+      BigpumpkinAttack_42: 480244175
+      BigpumpkinAttack_59: 1778211082
+      BigpumpkinAttack_57: -447893300
+      BigpumpkinAttack_19: 1655062244
+      BigpumpkinAttack_72: -1179937198
+      BigpumpkinAttack_27: -1513641822
+      BigpumpkinAttack_9: 137454975
+      BigpumpkinAttack_74: 1412806243
+      BigpumpkinAttack_13: 412317780
+      BigpumpkinAttack_17: -1676899999
+      BigpumpkinAttack_51: -527477236
+      BigpumpkinAttack_81: 339812027
+      BigpumpkinAttack_11: -1640846366
+      BigpumpkinAttack_55: 2122720442
+      BigpumpkinAttack_67: 1736309586
+      BigpumpkinAttack_21: -239144914
+      BigpumpkinAttack_39: -2062289839
+      BigpumpkinAttack_50: 527816839
+      BigpumpkinAttack_7: -54737537
+      BigpumpkinAttack_48: 1191154685
+      BigpumpkinAttack_0: -295178758
+      BigpumpkinAttack_2: -1074925405
+      BigpumpkinAttack_69: 686243939
+      BigpumpkinAttack_53: -1543574302
+      BigpumpkinAttack_68: 1352893252
+      BigpumpkinAttack_56: -1501099170
+      BigpumpkinAttack_18: 1236376853
+      BigpumpkinAttack_29: 2096566590
+      BigpumpkinAttack_45: 1962319069
+      BigpumpkinAttack_6: -147734849
+      BigpumpkinAttack_54: -1285329909
+      BigpumpkinAttack_60: -467186138
+      BigpumpkinAttack_84: -1466059757
+      BigpumpkinAttack_64: 1151077266
+      BigpumpkinAttack_15: -1079474612
+      BigpumpkinAttack_37: -1012044285
+      BigpumpkinAttack_35: 1111640378
+      BigpumpkinAttack_31: 1234562187
+      BigpumpkinAttack_49: 1842844327
+      BigpumpkinAttack_1: -1013027934
+      BigpumpkinAttack_79: 48198468
+      BigpumpkinAttack_52: -102874015
+      BigpumpkinAttack_24: -303573597
+      BigpumpkinAttack_36: -1385857419
+      BigpumpkinAttack_70: -1982671139
+      BigpumpkinAttack_41: -176022814
+      BigpumpkinAttack_4: 1465703705
+      BigpumpkinAttack_62: 2109770835
+      BigpumpkinAttack_5: 1086767988
+      BigpumpkinAttack_66: 914363051
+      BigpumpkinAttack_30: 1545787861
+      BigpumpkinAttack_61: -431087242
+      BigpumpkinAttack_23: 1960402754
+      BigpumpkinAttack_43: -906055201
+      BigpumpkinAttack_71: 1506090071
+      BigpumpkinAttack_83: 2120202323
+      BigpumpkinAttack_65: -57348541
+      BigpumpkinAttack_8: 1242100245
+      BigpumpkinAttack_46: -175920442
+      BigpumpkinAttack_40: -1745537332
+      BigpumpkinAttack_14: 950443231
+      BigpumpkinAttack_47: -1522933210
+      BigpumpkinAttack_73: -760508825
+      BigpumpkinAttack_63: 1998163561
+      BigpumpkinAttack_78: -1395867084
+      BigpumpkinAttack_25: 1242529241
+      BigpumpkinAttack_34: 1938194346
+      BigpumpkinAttack_38: -1344454443
+      BigpumpkinAttack_76: -20883077
+      BigpumpkinAttack_10: -1238269296
+      BigpumpkinAttack_85: -466588006
+      BigpumpkinAttack_3: -469512610
+      BigpumpkinAttack_28: 1111028569
+      BigpumpkinAttack_12: 884129746
+      BigpumpkinAttack_58: 617107252
+      BigpumpkinAttack_33: 1555647638
+      BigpumpkinAttack_77: 589323990
+      BigpumpkinAttack_80: -307600657
+      BigpumpkinAttack_44: 740808267
+      BigpumpkinAttack_75: -1981225947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

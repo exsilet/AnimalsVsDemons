@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da610c08e1204528a69f122f4dc7565c, type: 3}
+  m_Name: MinionEagle2Lvl
+  m_EditorClassIdentifier: 
+  NameRus: "\u041E\u0440\u0435\u043B \u0443\u04402"
+  NameEng: Eagle Lvl2
+  Level: 2
+  CurrentHP: 12
+  MaxHP: 12
+  Damage: 3
+  Defence: 0
+  Cooldown: 2.5
+  MissileSpeed: 3
+  UIIcon: {fileID: -1799877612, guid: 0000ee9a834ca2a478be7d63941bb1b8, type: 3}
+  Price: 100
+  Prefab: {fileID: 4404281967611001212, guid: 56f3a6304c630044ba5e9d71cdaebc9c, type: 3}
+  TowerTypeID: 7
